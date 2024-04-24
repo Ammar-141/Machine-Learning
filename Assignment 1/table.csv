@@ -1,0 +1,6 @@
+﻿Size,Color,Shape,Output
+big,red,circle,no
+small,red,triangle,no
+small,red,circe,yes
+big,blue,circe,no
+small,blue,circle,yes
